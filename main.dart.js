@@ -65789,7 +65789,7 @@ n=A.f(a)
 l=$.bb()
 l=$.c().l(l)
 s=t.p
-l=A.a9(A.a([m,B.t,A.p("Rememebr me",o,o,o,o,A.q().$3$color$fontSize$fontWeight(n.ay.b,$.c().l(l),B.dP),o,o,o)],s),B.h,o,B.f,B.e,o)
+l=A.a9(A.a([m,B.t,A.p("Remember me",o,o,o,o,A.q().$3$color$fontSize$fontWeight(n.ay.b,$.c().l(l),B.dP),o,o,o)],s),B.h,o,B.f,B.e,o)
 n=$.b0()
 n=$.c().l(n)
 return A.a9(A.a([l,A.p("Forgot Password ?",o,o,o,o,A.q().$3$color$fontSize$fontWeight(B.w,$.c().l(n),B.r),o,o,o)],s),B.h,o,B.P,B.e,o)}}
