@@ -38439,7 +38439,7 @@ case 3:return"Cancelled"}},
 alW(a,b){var s=0,r=A.F(t.N),q,p,o,n
 var $async$alW=A.A(function(c,d){if(c===1)return A.C(d,r)
 while(true)switch(s){case 0:s=3
-return A.H(A.bdl(A.f0("https://translate.googleapis.com/language/translate/v2?target="+a+"&key=AIzaSyALZD42H68l93oqrBXMzfHnjyI7sq3-4K0&q="+b,0,null),null,null),$async$alW)
+return A.H(A.bdl(A.f0("https://translate.googleapis.com/language/translate/v2?target="+a+"&key=AIzaSyCeMcSdboNXG4h5EftCUvhqTGx9hlHZgQ8&q="+b,0,null),null,null),$async$alW)
 case 3:n=d
 if(n.b===200){p=J.kM(t.j.a(J.aW(J.aW(B.dj.h_(0,A.bd5(A.bcq(n.e).c.a.h(0,"charset")).h_(0,n.w)),"data"),"translations")))
 o=new A.a0f()
@@ -62177,7 +62177,7 @@ return A.hC(new A.aYC(a),s,new A.a2(r,50,r,50),B.aC,B.H,!1)},
 $S:636}
 A.aYC.prototype={
 $2(a,b){var s=J.aW(this.a,b)
-return new A.AV(A.im("dd MMM yyyy").fQ(s.x),"$ "+A.j(s.e),s.b,s.f,new A.aYA(),new A.aYB(a,s),null)},
+return new A.AV(A.im("dd MMM yyyy").fQ(s.x),"CFA "+A.j(s.e),s.b,s.f,new A.aYA(),new A.aYB(a,s),null)},
 $S:627}
 A.aYB.prototype={
 $0(){A.nS(B.C,new A.Zh(this.b.a,null),this.a)},
@@ -64013,7 +64013,7 @@ j=A.h(a)
 s=$.br()
 s=$.c().l(s)
 r=t.p
-return A.W(A.b([A.au(A.a9(A.b([m,l,A.au(A.p("CFA $"+A.j(k),q,q,q,q,A.q().$3$color$fontSize$fontWeight(j.ay.b,$.c().l(s),B.r),B.Q,q,q),q,n)],r),B.i,q,B.M,B.e,q),54*o,1/0),A.dm(B.V,q,q)],r),B.i,q,B.f,B.e)},
+return A.W(A.b([A.au(A.a9(A.b([m,l,A.au(A.p("CFA "+A.j(k),q,q,q,q,A.q().$3$color$fontSize$fontWeight(j.ay.b,$.c().l(s),B.r),B.Q,q,q),q,n)],r),B.i,q,B.M,B.e,q),54*o,1/0),A.dm(B.V,q,q)],r),B.i,q,B.f,B.e)},
 $S:54}
 A.aqr.prototype={
 $2(a,b){return B.fd},
